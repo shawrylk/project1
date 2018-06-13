@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.4)
-$
-project(main)
+
+project(server)
 
 #find_package(OpenCV REQUIRED)
 

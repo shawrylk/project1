@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.4)
-$
-project(main)
+
+project(client)
 
 #find_package(OpenCV REQUIRED)
 
@@ -18,5 +18,5 @@ set(LIBRARY_OUTPUT_PATH ${CMAKE_BINARY_DIR})
 
 add_executable(${PROJECT_NAME} ${SOURCES})
 
-#target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
+#target_link_libraries(client ${OpenCV_LIBS})
 target_link_libraries(${PROJECT_NAME})
