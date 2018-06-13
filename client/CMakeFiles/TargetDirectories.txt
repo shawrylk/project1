@@ -1,0 +1,3 @@
+/home/shawry/project1/client/CMakeFiles/rebuild_cache.dir
+/home/shawry/project1/client/CMakeFiles/edit_cache.dir
+/home/shawry/project1/client/CMakeFiles/client.dir
