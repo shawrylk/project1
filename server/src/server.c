@@ -65,7 +65,7 @@ int main()
 					else
 					{
 						read(fd, &ch, 1);
-						sleep(5);
+						//sleep(5);
 						printf("serving client on fd %d\n", fd);
 						ch++;
 						write(fd, &ch, 1);
